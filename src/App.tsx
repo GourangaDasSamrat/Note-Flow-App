@@ -1,15 +1,24 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import "./App.css";
 import Header from "./components/Header";
 import Modal from "./components/Modal";
 import NoteForm from "./components/NoteForm";
 import NoteList from "./components/NoteList";
 import { useLocalStorage } from "./hooks/useLocalStorage";
-import type { ModalProps, Note } from "./types";
+import type { ModalProps, Note, Theme } from "./types";
 
 function App() {
   const [notes, setNotes] = useLocalStorage<Note[]>("notes", []);
+  const [theme, setTheme] = useLocalStorage<Theme>("theme", "dark");
   const [modal, setModal] = useState<ModalProps | null>(null);
+
+  useEffect(() => {
+    document.documentElement.setAttribute("data-theme", theme);
+  }, [theme]);
+
+  const handleThemeToggle = () => {
+    setTheme(theme === "dark" ? "light" : "dark");
+  };
 
   const handleAddNote = (title: string, body: string) => {
     if (!title || !body) {
@@ -72,7 +81,7 @@ function App() {
   return (
     <div className="app-container">
       <div className="app-content">
-        <Header />
+        <Header theme={theme} onThemeToggle={handleThemeToggle} />
         <NoteForm onAddNote={handleAddNote} />
         <NoteList
           notes={notes}
