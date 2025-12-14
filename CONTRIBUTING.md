@@ -18,7 +18,7 @@
   </a>
 </p>
 
-Thank you for your interest in contributing to the EcoSky Weather App! We welcome all kinds of contributions, including bug reports, feature requests, code improvements, documentation, and more.
+Thank you for your interest in contributing to the Note Flow App! We welcome all kinds of contributions, including bug reports, feature requests, code improvements, documentation, and more.
 
 ## How to Contribute
 
