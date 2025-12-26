@@ -347,13 +347,69 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author & Contact
 
-**Gouranga Das Samrat**
+<p align="center">
+  <img src="https://i.postimg.cc/KjDqkbXm/1765031414996-3.jpg"
+       alt="Gouranga Das Samrat"
+       width="120"
+       style="border-radius:50%;box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
+</p>
 
-- GitHub: [@GourangaDasSamrat](https://github.com/GourangaDasSamrat)
-- Project Link: [Note Flow App](https://github.com/GourangaDasSamrat/Note-Flow-App)
+<h3 align="center">Gouranga Das Samrat</h3>
 
+<p align="center">
+  <i>
+    Full Stack Developer • MERN Stack • Technical Writer <br/>
+    Passionate about building scalable web apps & contributing to open source
+  </i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gouranga-das-samrat">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/gouranga_khulna">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://bsky.app/profile/gouranga-khulna.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/gourangadassamrat">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/gourangadassamrat/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/gouranga_das_kh1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://codepen.io/gouranga-das-samrat">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@gouranga.das.khulna">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/gouranga-das-khulna/">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+  <a href="mailto:gouranga.samrat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>
+    Open to collaboration, frontend & full-stack projects,
+    or meaningful discussions around JavaScript, React & web architecture.
+  </i>
+</p>
 ---
 
 ## 🙏 Acknowledgments
