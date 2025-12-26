@@ -6,7 +6,7 @@
 
 **A beautiful, feature-rich note-taking application built with modern web technologies**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://note-flow-tawny.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://note-flow.gouranga.qzz.io/)
 [![StackBlitz](https://img.shields.io/badge/Open_in-StackBlitz-blue?style=for-the-badge&logo=stackblitz)](https://stackblitz.com/github.com/GourangaDasSamrat/Note-Flow-App)
 [![Documentation](https://img.shields.io/badge/Detailed-Docs-orange?style=for-the-badge&logo=gitbook)](https://deepwiki.com/GourangaDasSamrat/Note-Flow-App)
 
@@ -71,7 +71,7 @@
 
 ### Live Application
 
-🌐 **[View Live Demo](https://note-flow-tawny.vercel.app/)**
+🌐 **[View Live Demo](https://note-flow.gouranga.qzz.io/)**
 
 ### Try it Online
 
